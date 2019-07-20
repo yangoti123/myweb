@@ -1,4 +1,4 @@
-node {
+node('Nodeone') {
    
    stage('SCM Checkout'){
     // Clone repo
